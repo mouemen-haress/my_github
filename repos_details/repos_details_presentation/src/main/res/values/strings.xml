@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CaloryTrackerPrep</string>
+    <string name="name">Name</string>
+    <string name="date">Created At</string>
+    <string name="stargazers_count">Stargazers Count</string>
+
+</resources>
